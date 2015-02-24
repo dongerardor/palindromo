@@ -1,0 +1,30 @@
+{
+  "name": "Palindromo",
+  "version": "1.0.0",
+  "description": "Real-time multimedia communications for crowds",
+  "main": "meadowlark.js",
+  "dependencies": {
+    "express": "^4.12.0",
+    "express-handlebars": "^1.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dongerardor/palindromo.git"
+  },
+  "keywords": [
+    "palindromo",
+    "votacion",
+    "voting",
+    "app"
+  ],
+  "author": "Gerardor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dongerardor/palindromo/issues"
+  },
+  "homepage": "https://github.com/dongerardor/palindromo"
+}
